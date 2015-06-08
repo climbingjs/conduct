@@ -1,6 +1,6 @@
 # The Climbing.js Code of conduct
 
-Adapted from the [JSConf code of conduct](http://jsconf.com/codeofconduct.html)
+Adapted from the [JSConf code of conduct](http://jsconf.com/codeofconduct.html).
 
 All attendees at any Climbing.js event are required to agree with the following code of conduct. Organisers will enforce this code throughout the event.
 
